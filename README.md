@@ -1,4 +1,4 @@
-#AgendaElectronicaConJava
+#agendaElectronicaConJava
 
 ° Realización de clases, constructor vacio, metodos (GUARDAR, ADELANTE, ATRAS).
 
